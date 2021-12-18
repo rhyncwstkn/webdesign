@@ -4813,6 +4813,7 @@ element.style {
     }
     #HowWeWorkInfoGraphicText.Active {
       display: block;
+      position: relative;
     }
     #InfographicContainer svg {
       height: auto;
